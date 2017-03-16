@@ -1,0 +1,5 @@
+nombre: luz
+contrasena: 123
+direccion ip: 456
+fecha inicio de sesion: feb
+hora de sesion: 8
